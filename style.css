@@ -41,9 +41,9 @@ label{
     margin-left: 2em;
     font-size: 24px;
     color: #3D087B;
-    background-color: greenyellow;
+    /* background-color: greenyellow; */
     border-radius: 0.4em;
-    box-shadow: 3px 3px 3px darkcyan;
+    /* box-shadow: 3px 3px 3px darkcyan; */
 }
 /* .lunch-select{
     margin-left: 3em;
@@ -134,7 +134,7 @@ label{
     background-color: lightgray;
     font-size: 32px;
     padding: 0.5em;  
-    box-shadow: 2px 2px 2px darkcyan;  
+    /* box-shadow: 2px 2px 2px darkcyan;   */
 }
 .tb1{
     display: relative;
@@ -148,7 +148,7 @@ label{
     opacity: 0.88;
 }
 .tb2{
-    display: relative;
+    /* display: relative; */
     width: 60%;
     margin: auto;
     height: 4em;
@@ -177,7 +177,7 @@ label{
     border-radius: 1em;
     margin-top: 2em;
     box-shadow: 3px 3px 3px black;
-    background-image: url(./constant.jpg);
+    /* background-image: url(./constant.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     
